@@ -8,12 +8,10 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.material3.Card
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
-import androidx.compose.runtime.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import androidx.lifecycle.ViewModel
 import com.example.voiceandcamerarecognition.ui.theme.VoiceAndCameraRecognitionTheme
 import com.example.voiceandcamerarecognition.schemas.RecognitionItem
 import com.example.voiceandcamerarecognition.viewmodels.RecognitionItemViewModel
