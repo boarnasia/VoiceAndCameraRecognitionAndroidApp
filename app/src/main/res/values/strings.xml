@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceAndCameraRecognition</string>
+    <string name="title_activity_test_view01">TestView01Activity</string>
+</resources>
